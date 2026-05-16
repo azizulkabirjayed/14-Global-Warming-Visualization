@@ -1,5 +1,5 @@
 <a id="readme-top"></a>
-# About The Projects
+# About The Project
 Analyzed and visualized temperature anomalies from 500 Berkeley Earth stations across 7 continents. Performed data cleaning using linear interpolation for missing values and created visual charts of temperature rises.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
