@@ -19,10 +19,10 @@ Automated web scraping from the Berkeley Earth [station list](https://data.berke
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Sample Visualizations
-![Visualization 1](readme_files/1.png)
-![Visualization 2](readme_files/2.png)
-![Visualization 3](readme_files/3.png)
-![Visualization 4](readme_files/4.png)
-![Visualization 5](readme_files/5.png)
-![Visualization 6](readme_files/6.png)
+![Visualization 1](14/1.png)
+![Visualization 2](14/2.png)
+![Visualization 3](14/3.png)
+![Visualization 4](14/4.png)
+![Visualization 5](14/5.png)
+![Visualization 6](14/6.png)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
